@@ -1,6 +1,6 @@
 {
   "name": "binance-trading-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spot Trading on Binance, Build with Node.js & JavaScript SDK for Binance REST APIs & WebSockets, with TypeScript & browser support, integration tests, beautification & more.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
