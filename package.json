@@ -1,6 +1,6 @@
 {
   "name": "binance-trading-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Spot Trading on Binance, Build with Node.js & JavaScript SDK for Binance REST APIs & WebSockets, with TypeScript & browser support, integration tests, beautification & more.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -28,8 +28,9 @@
     "isomorphic-ws": "^4.0.1",
     "nanoid": "^3.1.30",
     "ws": "^7.4.0",
-    "auto-group-strings-array" : "^1.1.5",
-    "crypto-coin-address-validators" : "^1.0.1"
+    "auto-group-strings-array" : "1.1.2",
+    "crypto-coin-address-validators" : "^1.0.2",
+    "binance-trading-lib" : "^1.0.1"
   },
   "devDependencies": {
     "@types/jest": "^29.1.1",
